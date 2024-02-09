@@ -1,3 +1,5 @@
+console.log(Pass)
+
 const perguntas = [
   {
     pergunta: "Qual é a forma correta de declarar uma variável em JavaScript?",
