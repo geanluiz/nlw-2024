@@ -1,4 +1,4 @@
-console.log('Pass')
+console.log("Pass")
 
 const perguntas = [
   {
